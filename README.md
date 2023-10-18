@@ -1,7 +1,7 @@
 # Pemrograman Berbasis Object
 
-Nama: Halvino Iqbal Nataprawira
-NIM: 2022071019
+- Nama: Halvino Iqbal Nataprawira
+- NIM: 2022071019
 
 Isi:
 - Program dari slide PBO
